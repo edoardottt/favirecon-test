@@ -1,6 +1,9 @@
 https://edoardottt.github.io/favirecon-test/direct
 https://edoardottt.github.io/favirecon-test/direct/
-https://edoardottt.github.io/favirecon-test/head-direct
+https://edoardottt.github.io/favirecon-test/head-direct-relative
+https://edoardottt.github.io/favirecon-test/head-direct-relative/
+https://edoardottt.github.io/favirecon-test/head-direct-absolute
+https://edoardottt.github.io/favirecon-test/head-direct-absolute/
 https://edoardottt.github.io/favirecon-test/head-redirect
 https://edoardottt.github.io/favirecon-test/head-redirect/
 https://edoardottt.github.io/favirecon-test/head-base64
