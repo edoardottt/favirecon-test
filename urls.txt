@@ -4,6 +4,12 @@ https://edoardottt.github.io/favirecon-test/head-direct-relative
 https://edoardottt.github.io/favirecon-test/head-direct-relative/
 https://edoardottt.github.io/favirecon-test/head-direct-absolute
 https://edoardottt.github.io/favirecon-test/head-direct-absolute/
+https://edoardottt.github.io/favirecon-test/head-direct-shortcut
+https://edoardottt.github.io/favirecon-test/head-direct-shortcut/
+https://edoardottt.github.io/favirecon-test/head-direct-svg
+https://edoardottt.github.io/favirecon-test/head-direct-svg/
+https://edoardottt.github.io/favirecon-test/head-direct-multiple
+https://edoardottt.github.io/favirecon-test/head-direct-multiple/
 https://edoardottt.github.io/favirecon-test/head-redirect
 https://edoardottt.github.io/favirecon-test/head-redirect/
 https://edoardottt.github.io/favirecon-test/head-base64
