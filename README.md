@@ -1,5 +1,11 @@
 # favirecon-test
 
+Live test cases for [favirecon](https://github.com/edoardottt/favirecon)
+
+```console
+cat urls.txt | favirecon
+```
+
 Tests:
 
 - [https://edoardottt.github.io/favirecon-test/direct](https://edoardottt.github.io/favirecon-test/direct): favicon image hosted on the same server at /favicon.ico
